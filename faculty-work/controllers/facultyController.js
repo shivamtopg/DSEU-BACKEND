@@ -38,6 +38,20 @@ const getFaculty = catchAsync(async (req, resp, next) => {
   })
 })
 
+const getFacultyById = catchAsync(async (req, resp, next) => {
+  const id = req.params.id
+  const faculty = await Faculty.findById(id)
+  if (!faculty) {
+    return next(new AppError(`Cannot find faculty with id: ${id}`, 404))
+  }
+  resp.status(200).json({
+    status: 'success',
+    data: {
+      faculty,
+    },
+  })
+})
+
 const updateFaculty = catchAsync(async (req, resp, next) => {
   const id = req.params.id
   const faculty = await Faculty.findByIdAndUpdate(id, req.body, {
@@ -56,4 +70,4 @@ const updateFaculty = catchAsync(async (req, resp, next) => {
   })
 })
 
-module.exports = { createFaculty, getFaculty, updateFaculty }
+module.exports = { createFaculty, getFaculty, updateFaculty, getFacultyById }
