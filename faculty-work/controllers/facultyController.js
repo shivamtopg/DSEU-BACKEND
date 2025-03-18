@@ -2,6 +2,7 @@ const catchAsync = require('../utils/catchAsync')
 const Faculty = require('../models/Faculty')
 const APIFeatures = require('../utils/apiFeatures')
 const AppError = require('../utils/appError')
+const axios = require('axios')
 
 const { PAGE_SIZE } = require('../constants/constants')
 
@@ -52,22 +53,51 @@ const getFacultyById = catchAsync(async (req, resp, next) => {
   })
 })
 
-const updateFaculty = catchAsync(async (req, resp, next) => {
-  const id = req.params.id
-  const faculty = await Faculty.findByIdAndUpdate(id, req.body, {
-    new: true,
-    runValidators: true,
-  })
+// const updateFaculty = catchAsync(async (req, resp, next) => {
+//   const id = req.params.id
+//   const faculty = await Faculty.findByIdAndUpdate(id, req.body, {
+//     new: true,
+//     runValidators: true,
+//   })
 
-  if (!faculty) {
+//   if (!faculty) {
+//     return next(new AppError(`Cannot find faculty with id: ${id}`, 404))
+//   }
+//   resp.status(200).json({
+//     status: 'success',
+//     data: {
+//       faculty,
+//     },
+//   })
+// })
+const updateFaculty = catchAsync(async (req, res, next) => {
+  const id = req.params.id
+
+  const { overview } = req.body
+  let imgurUrl
+
+  if (req.file) {
+    const imageBase64 = req.file.buffer.toString('base64')
+    const response = await axios.post(
+      'https://api.imgur.com/3/image',
+      { image: imageBase64, type: 'base64' },
+      {
+        headers: { Authorization: `Client-ID ${process.env.IMGUR_CLIENT_ID}` },
+      },
+    )
+    imgurUrl = response.data.data.link
+  }
+  const updatedFaculty = await Faculty.findByIdAndUpdate(
+    id,
+    { overview, ...(imgurUrl && { imgurUrl }) },
+    { new: true, runValidators: true },
+  )
+
+  if (!updatedFaculty) {
     return next(new AppError(`Cannot find faculty with id: ${id}`, 404))
   }
-  resp.status(200).json({
-    status: 'success',
-    data: {
-      faculty,
-    },
-  })
+
+  res.json({ message: 'Faculty updated successfully', updatedFaculty })
 })
 
 module.exports = { createFaculty, getFaculty, updateFaculty, getFacultyById }

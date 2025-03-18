@@ -29,6 +29,11 @@ const FacultySchema = new mongoose.Schema({
     ref: 'Department',
     required: [true, 'A Faculty must have a department'],
   },
+  imgurUrl: {
+    type: String,
+    required: false,
+    default: '',
+  },
 })
 
 FacultySchema.pre(/^find/, function (next) {

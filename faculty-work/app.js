@@ -8,6 +8,7 @@ const morgan = require('morgan')
 const routes = require('./routes/userRoutes')
 const facultyRoutes = require('./routes/facultyRoutes')
 const departmentRoutes = require('./routes/departmentRoutes')
+const userRoutes = require('./routes/userRoutes')
 const connectDB = require('./config/db')
 
 const AppError = require('./utils/appError')
@@ -28,6 +29,7 @@ connectDB()
 app.use('/api/', routes)
 app.use('/api/v1/faculty', facultyRoutes)
 app.use('/api/v1/departments', departmentRoutes)
+app.use('/api/v1/auth', userRoutes)
 
 app.all('*', (req, resp, next) => {
   next(new AppError(`cannot find path ${req.originalUrl}`, 400))
