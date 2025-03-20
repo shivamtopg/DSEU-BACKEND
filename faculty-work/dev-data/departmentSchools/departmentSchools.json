@@ -1,0 +1,77 @@
+[
+  {
+    "school": "Faculty of Agriculture and Allied Skills (FAAS) ",
+
+    "dept_id": "['67dbb64d8ca4a5cd0c114a2c', '67dbb64e8ca4a5cd0c114a30', '67dbb64e8ca4a5cd0c114a32', '67dbb64e8ca4a5cd0c114a34', '67dbb64e8ca4a5cd0c114a36', '67dbb64e8ca4a5cd0c114a38', '67dbb64e8ca4a5cd0c114a3a'] "
+  },
+  {
+    "school": "Faculty of Allied Medical Sciences and Healthcare Skills (FAMSHS)",
+
+    "dept_id": " ['67dbb64e8ca4a5cd0c114a3c', '67dbb64e8ca4a5cd0c114a3e', '67dbb64f8ca4a5cd0c114a40', '67dbb64f8ca4a5cd0c114a42'] "
+  },
+  {
+    "school": "Faculty of Design Skills (FDS) ",
+
+    "dept_id": " ['67dbb64f8ca4a5cd0c114a46', '67dbb64f8ca4a5cd0c114a48', '67dbb64f8ca4a5cd0c114a4a', '67dbb64f8ca4a5cd0c114a4c', '67dbb64f8ca4a5cd0c114a4e', '67dbb64f8ca4a5cd0c114a50', '67dbb64f8ca4a5cd0c114a52', '67dbb64f8ca4a5cd0c114a54', '67dbb64f8ca4a5cd0c114a56', '67dbb64f8ca4a5cd0c114a58'] "
+  },
+  {
+    "school": "Faculty of   Architecture and Civil Engineering Skills (FACES)",
+
+    "dept_id": "['67dbb64f8ca4a5cd0c114a5a', '67dbb64f8ca4a5cd0c114a5c', '67dbb64f8ca4a5cd0c114a5e'] "
+  },
+  {
+    "school": "Faculty of Business, Finance and Managerial Skills (FBFMS) ",
+
+    "dept_id": " ['67dbb64f8ca4a5cd0c114a60', '67dbb6508ca4a5cd0c114a62', '67dbb6508ca4a5cd0c114a64', '67dbb6508ca4a5cd0c114a66', '67dbb6508ca4a5cd0c114a68', '67dbb6508ca4a5cd0c114a6a', '67dbb6508ca4a5cd0c114a6c', '67dbb6508ca4a5cd0c114a6e', '67dbb6508ca4a5cd0c114a70', '67dbb6508ca4a5cd0c114a72', '67dbb6508ca4a5cd0c114a74']"
+  },
+  {
+    "school": "Faculty of Scientific Skills (FSS)",
+
+    "dept_id": "['67dbb6508ca4a5cd0c114a76', '67dbb6508ca4a5cd0c114a78', '67dbb6518ca4a5cd0c114a7a', '67dbb6518ca4a5cd0c114a7c', '67dbb6518ca4a5cd0c114a7e'] "
+  },
+  {
+    "school": "Faculty of Chemical Engineering Skills (FCES) ",
+
+    "dept_id": " ['67dbb6518ca4a5cd0c114a80', '67dbb6518ca4a5cd0c114a82', '67dbb6518ca4a5cd0c114a84', '67dbb6518ca4a5cd0c114a86'] "
+  },
+  {
+    "school": "Faculty of Computational and IT Enabled Skills (FCITES)",
+
+    "dept_id": " ['67dbb6518ca4a5cd0c114a88', '67dbb6518ca4a5cd0c114a8a', '67dbb6518ca4a5cd0c114a8c', '67dbb6518ca4a5cd0c114a8e', '67dbb6518ca4a5cd0c114a90', '67dbb6518ca4a5cd0c114a92', '67dbb6518ca4a5cd0c114a94']"
+  },
+  {
+    "school": "Faculty of Converging Science and Technology Skills (FCSTS) ",
+
+    "dept_id": " ['67dbb6518ca4a5cd0c114a96', '67dbb6518ca4a5cd0c114a98', '67dbb6518ca4a5cd0c114a9a', '67dbb6528ca4a5cd0c114a9c', '67dbb6528ca4a5cd0c114a9e', '67dbb6528ca4a5cd0c114aa0', '67dbb6528ca4a5cd0c114aa2', '67dbb6528ca4a5cd0c114aa4', '67dbb6528ca4a5cd0c114aa6', '67dbb6528ca4a5cd0c114aa8', '67dbb6528ca4a5cd0c114aaa'] "
+  },
+  {
+    "school": "Faculty of Electronics and Electrical Engineering Skills (FEEES) ",
+
+    "dept_id": " ['67dbb6528ca4a5cd0c114aac', '67dbb6528ca4a5cd0c114aae', '67dbb6528ca4a5cd0c114ab0', '67dbb6528ca4a5cd0c114ab2', '67dbb6528ca4a5cd0c114ab4'] "
+  },
+  {
+    "school": "Faculty of Entrepreneurship Skills (FES) ",
+
+    "dept_id": " ['67dbb6528ca4a5cd0c114ab6', '67dbb6528ca4a5cd0c114ab8', '67dbb6528ca4a5cd0c114aba', '67dbb6528ca4a5cd0c114abc', '67dbb6528ca4a5cd0c114abe', '67dbb6528ca4a5cd0c114ac0'] "
+  },
+  {
+    "school": "Faculty of Language and Communication Skills (FLCS)",
+
+    "dept_id": " ['67dbb6528ca4a5cd0c114ac2', '67dbb6538ca4a5cd0c114ac4', '67dbb6538ca4a5cd0c114ac6', '67dbb6538ca4a5cd0c114ac8', '67dbb6538ca4a5cd0c114aca', '67dbb6538ca4a5cd0c114acc', '67dbb6538ca4a5cd0c114ace', '67dbb6538ca4a5cd0c114ad0', '67dbb6538ca4a5cd0c114ad2', '67dbb6538ca4a5cd0c114ad4'] "
+  },
+  {
+    "school": "Faculty of Mechanical Engineering Skills (FMES)",
+
+    "dept_id": " ['67dbb6538ca4a5cd0c114ad6', '67dbb6538ca4a5cd0c114ad8', '67dbb6538ca4a5cd0c114ada', '67dbb6538ca4a5cd0c114adc', '67dbb6538ca4a5cd0c114ade', '67dbb6538ca4a5cd0c114ae0'] "
+  },
+  {
+    "school": "Faculty of Social Science and Life Skills (FSSLS)",
+
+    "dept_id": "['67dbb6538ca4a5cd0c114ae2', '67dbb6538ca4a5cd0c114ae4', '67dbb6538ca4a5cd0c114ae6', '67dbb6548ca4a5cd0c114ae8', '67dbb6548ca4a5cd0c114aea', '67dbb6548ca4a5cd0c114aec', '67dbb6548ca4a5cd0c114aee'] "
+  },
+  {
+    "school": "Faculty of Tourism and Hospitality Skills (FTHS)",
+
+    "dept_id": "['67dbb6548ca4a5cd0c114af0', '67dbb6548ca4a5cd0c114af2', '67dbb6548ca4a5cd0c114af4', '67dbb6548ca4a5cd0c114af6', '67dbb6548ca4a5cd0c114af8', '67dbb6548ca4a5cd0c114afa', '67dbb6548ca4a5cd0c114afc', '67dbb6548ca4a5cd0c114afe'] "
+  }
+]

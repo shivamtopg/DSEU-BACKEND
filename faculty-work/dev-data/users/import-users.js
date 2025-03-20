@@ -23,7 +23,7 @@ const normalizedData = usersData.map((obj) =>
 )
 const importUsers = async () => {
   try {
-    for (const user of normalizedData) {
+    for (const user of usersData) {
       await User.create(user)
     }
     console.log('users inserted successfully!')
@@ -37,3 +37,52 @@ const importUsers = async () => {
 if (process.argv[2] === 'import-users') {
   importUsers()
 }
+
+// {
+//  "email": "kanak.lata@dseu.ac.in",
+//  "password": " "
+// },
+// {
+//  "email": "anilapmae@gmail.com"
+// },
+// {
+//  "email": "ersanjeevkumar124@gmail.com"
+// },
+// {
+//  "email": "director-wcsc-pusa@dseu.ac.in"
+// },
+// {
+//  "email": "nandlal.singh@dseu.ac.in"
+// },
+// {
+//  "email": "pravir.chitre@dseu.ac.in"
+// },
+// {
+//  "email": "carynethia@gmail.com"
+
+// }
+
+//priya
+
+// {
+//   "email": "priya.grover@dseu.ac.in",
+//   "password": 11018,
+//   "designation": "Faculty"
+// },
+// {
+//   "email": "priya.grover@dseu.ac.in",
+//   "password": 11018,
+//   "designation": "Faculty"
+// },
+// {
+//   "email": "priya.grover@dseu.ac.in",
+//   "password": 11019,
+//   "designation": "Faculty"
+// },
+// {
+//   "email": "priya.grover@dseu.ac.in",
+//   "password": 11019,
+//   "designation": "Faculty"
+// },
+
+//priya panchal

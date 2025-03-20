@@ -6,6 +6,10 @@ const DepartmentsSchema = new mongoose.Schema({
     required: [true, 'Department name should exist'],
     unique: true,
   },
+  hod: {
+    type: String,
+    required: false,
+  },
 })
 
 module.exports = mongoose.model('Department', DepartmentsSchema)

@@ -1,0 +1,357 @@
+[
+  {
+    "department": "Department of Agri Business Management"
+  },
+  {
+    "department": "Department of Dairy Management "
+  },
+  {
+    "department": "Department of Farmhouse Management"
+  },
+  {
+    "department": "Department of Forestry "
+  },
+  {
+    "department": "Department of Organic Farming and Crop Management "
+  },
+  {
+    "department": "Department of Poultry Farm Management "
+  },
+  {
+    "department": "Department of Vertical Farming"
+  },
+  {
+    "department": "Department of Allied Medical Science ",
+    "hod": "b.shanmugasundaram@dseu.ac.in"
+  },
+  {
+    "department": "Department of Allied Health Care Science",
+    "hod": "pankaj.k.ghosh@dseu.ac.in"
+  },
+  {
+    "department": "Department of Pharmaceutical Science",
+    "hod": "sumitra.yadav@dseu.ac.in"
+  },
+  {
+    "department": "Department of Optometry & Vision Science ",
+    "hod": "monica.chopra@dseu.ac.in"
+  },
+  {
+    "department": "Department of  Rehabilitation Science  "
+  },
+  {
+    "department": "Department of Crafts Design"
+  },
+  {
+    "department": "Department of Digital Media Design "
+  },
+  {
+    "department": "Department of Fashion Design",
+    "hod": "vijay.kumar@dseu.ac.in"
+  },
+  {
+    "department": "Department of Garment Fabrication Technology"
+  },
+  {
+    "department": "Department of Gems and Jewellery Design"
+  },
+  {
+    "department": "Department of Product Design"
+  },
+  {
+    "department": "Department of Fine Arts"
+  },
+  {
+    "department": "Department of Performing Arts"
+  },
+  {
+    "department": "Department of Social Media Management"
+  },
+  {
+    "department": "Department of Interior Design",
+    "hod": "arvinder.kaur@dseu.ac.in"
+  },
+  {
+    "department": "Department of Architecture",
+    "hod": "sushil.chandra@dseu.ac.in"
+  },
+  {
+    "department": "Department of Civil Engineering ",
+    "hod": "anupam.k.upadhyay@dseu.ac.in"
+  },
+  {
+    "department": "Department of Urban Infrastructure And Planning"
+  },
+  {
+    "department": "Department of Banking, Financial Services and Insurance",
+    "hod": "lata.rani@dseu.ac.in"
+  },
+  {
+    "department": "Department of Business Administration"
+  },
+  {
+    "department": "Department of Business Process Management",
+    "hod": "narender.jena@dseu.ac.in"
+  },
+  {
+    "department": "Department of Economics"
+  },
+  {
+    "department": "Department of E-Commerce",
+    "hod": "narender.jena@dseu.ac.in"
+  },
+  {
+    "department": "Department of Human Resource Management"
+  },
+  {
+    "department": "Department of International Business Management",
+    "hod": "narender.jena@dseu.ac.in"
+  },
+  {
+    "department": "Department of Office Management (MOP)",
+    "hod": "suman.dhawan@dseu.ac.in"
+  },
+  {
+    "department": "Department of Retail Management",
+    "hod": "narender.jena@dseu.ac.in"
+  },
+  {
+    "department": "Department of Warehouse Management"
+  },
+  {
+    "department": "Department of Supply Chain Management",
+    "hod": "narender.jena@dseu.ac.in"
+  },
+  {
+    "department": "Department of Physics",
+    "hod": "rita.malik@dseu.ac.in"
+  },
+  {
+    "department": "Department of Chemistry",
+    "hod": "usha.raju@dseu.ac.in"
+  },
+  {
+    "department": "Department of Mathematics",
+    "hod": "krishna.k.prasad@dseu.ac.in"
+  },
+  {
+    "department": "Department of Statistics"
+  },
+  {
+    "department": "Department of Life Sciences"
+  },
+  {
+    "department": "Department of Chemical Engineering",
+    "hod": "rashmi.panwar@dseu.ac.in"
+  },
+  {
+    "department": "Department of Petrochemicals",
+    "hod": "yashpal@dseu.ac.in"
+  },
+  {
+    "department": "Department of Polymer Science and Technology",
+    "hod": "makarand.d.joshi@dseu.ac.in"
+  },
+  {
+    "department": "Department of Metallurgy and Mining"
+  },
+  {
+    "department": "Department of Artificial Intelligence and Machine Learning",
+    "hod": "pravir.chitre@dseu.ac.in"
+  },
+  {
+    "department": "Department of Augmented Reality"
+  },
+  {
+    "department": "Department of Computer Engineering",
+    "hod": "pramod.k.goyal@dseu.ac.in"
+  },
+  {
+    "department": "Department of Computer Science and Application",
+    "hod": "kaushal.mehta@dseu.ac.in"
+  },
+  {
+    "department": "Department of Data Analytics",
+    "hod": "kaushal.mehta@dseu.ac.in"
+  },
+  {
+    "department": "Department of Library and Information Science",
+    "hod": "sushma.sharma@dseu.ac.in"
+  },
+  {
+    "department": "Department of Virtual Reality"
+  },
+  {
+    "department": "Department of Biosystem Inspired Engineering"
+  },
+  {
+    "department": "Department of Biotechnology and Bioinformatics"
+  },
+  {
+    "department": "Department of Computer Aided Drug Design"
+  },
+  {
+    "department": "Department of Cognitive Neuroscience"
+  },
+  {
+    "department": "Department of DRONE Technologies"
+  },
+  {
+    "department": "Department of Nanotechnology"
+  },
+  {
+    "department": "Department of Nano-Biosensor Technologies"
+  },
+  {
+    "department": "Department of Natural Language Programming"
+  },
+  {
+    "department": "Department of Quantum Technologies"
+  },
+  {
+    "department": "Department of Quantum Computing"
+  },
+  {
+    "department": "Department of Sustainability Science",
+    "hod": "rashmi.panwar@dseu.ac.in"
+  },
+  {
+    "department": "Department of Electrical Engineering",
+    "hod": "shelly.goel@dseu.ac.in"
+  },
+  {
+    "department": "Department of Electronics Communication Engineering",
+    "hod": "krishna.singh@dseu.ac.in"
+  },
+  {
+    "department": "Department of Instrumentation and Control Engineering"
+  },
+  {
+    "department": "Department of Internet of Things (IoT)"
+  },
+  {
+    "department": "Department of Networking and Security Informatics"
+  },
+  {
+    "department": "Department of Innovation Entrepreneurship",
+    "hod": "shruti.tripathi@dseu.ac.in"
+  },
+  {
+    "department": "Department of Intrapreneurship"
+  },
+  {
+    "department": "Department of Small Business Entrepreneurship"
+  },
+  {
+    "department": "Department of Social Entrepreneurship",
+    "hod": "punita.duhan@dseu.ac.in"
+  },
+  {
+    "department": "Department of Start-up Entrepreneurship"
+  },
+  {
+    "department": "Department of Customer Service Management"
+  },
+  {
+    "department": "Department of English",
+    "hod": "sampurnananda.mishra@dseu.ac.in"
+  },
+  {
+    "department": "Department of French"
+  },
+  {
+    "department": "Department of German"
+  },
+  {
+    "department": "Department of Hindi"
+  },
+  {
+    "department": "Department of Japanese"
+  },
+  {
+    "department": "Department of Journalism"
+  },
+  {
+    "department": "Department of Mandarin (Chinese)"
+  },
+  {
+    "department": "Department of Russian"
+  },
+  {
+    "department": "Department of Spanish",
+    "hod": "akshay.kumar@dseu.ac.in"
+  },
+  {
+    "department": "Depatment of Korean Language"
+  },
+  {
+    "department": "Department of Automobile Engineering",
+    "hod": "manoj.k.mishra@dseu.ac.in"
+  },
+  {
+    "department": "Department of Mechanical Engineering",
+    "hod": "vinod.k.singoria@dseu.ac.in"
+  },
+  {
+    "department": "Department of Mechatronics",
+    "hod": "arun.gupta@dseu.ac.in"
+  },
+  {
+    "department": "Department of Printing and Packaging Technology",
+    "hod": "sanjay.das@dseu.ac.in"
+  },
+  {
+    "department": "Department of Robotics and Automation",
+    "hod": "jaiprakash@dseu.ac.in"
+  },
+  {
+    "department": "Department of Tool and Production Engineering",
+    "hod": "kanwarjeet.singh@dseu.ac.in"
+  },
+  {
+    "department": "Department of Gym Management"
+  },
+  {
+    "department": "Department of Psychology"
+  },
+  {
+    "department": "Department of Relationship Management"
+  },
+  {
+    "department": "Department of Sports Management"
+  },
+  {
+    "department": "Department of Yoga, Wellness and Meditation"
+  },
+  {
+    "department": "Department of Aesthetics & Beauty",
+    "hod": "sangeeta.jain@dseu.ac.in"
+  },
+  {
+    "department": "Department of Cosmetology"
+  },
+  {
+    "department": "Department of Event Management"
+  },
+  {
+    "department": "Department of Food Production"
+  },
+  {
+    "department": "Department of Front Office Management"
+  },
+  {
+    "department": "Department of Facility Management"
+  },
+  {
+    "department": "Department of Home Science"
+  },
+  {
+    "department": "Department of Hospital Facility Management"
+  },
+  {
+    "department": "Department of Hotel Management"
+  },
+  {
+    "department": "Department of Tourism and Cultural Affairs"
+  }
+]

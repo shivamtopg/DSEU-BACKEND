@@ -4,10 +4,14 @@ const AppError = require('../utils/appError')
 const catchAsync = require('../utils/catchAsync')
 const jwt = require('jsonwebtoken')
 
-const generateJWTtoken = function (id, role) {
-  return jwt.sign({ id: id, role: role }, process.env.JWT_SECRET, {
-    expiresIn: process.env.JWT_EXPIRES_IN,
-  })
+const generateJWTtoken = function (id, role, email) {
+  return jwt.sign(
+    { id: id, role: role, email: email },
+    process.env.JWT_SECRET,
+    {
+      expiresIn: process.env.JWT_EXPIRES_IN,
+    },
+  )
 }
 
 const signUp = catchAsync(async (req, resp, next) => {
@@ -33,7 +37,7 @@ const login = catchAsync(async (req, resp, next) => {
     return next(new AppError(INAVALID_LOGIN, 404))
   }
 
-  const token = generateJWTtoken(user._id, user.role)
+  const token = generateJWTtoken(user._id, user.role, user.email)
 
   resp.status(200).json({
     status: 'success',
