@@ -45,6 +45,10 @@ const FacultySchema = new mongoose.Schema({
     type: String,
     required: false,
   },
+  designation: {
+    type: String,
+    required: false,
+  },
   dept_id: {
     type: Schema.Types.ObjectId,
     ref: 'Department',

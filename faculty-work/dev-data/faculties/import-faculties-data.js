@@ -8,7 +8,7 @@ const fs = require('fs')
 connectDB()
 
 const facultiesData = JSON.parse(
-  fs.readFileSync(`${__dirname}/facultiesData.json`, 'utf-8'),
+  fs.readFileSync(`${__dirname}/faculties2.json`, 'utf-8'),
 )
 const fieldMappings = {
   Name: 'name',
