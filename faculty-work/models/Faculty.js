@@ -4,9 +4,17 @@ const validator = require('validator')
 const { Schema } = require('mongoose')
 
 const FacultySchema = new mongoose.Schema({
-  name: {
+  firstname: {
     type: String,
     required: true,
+  },
+  surname: {
+    type: String,
+    required: false,
+  },
+  salutation: {
+    type: String,
+    required: false,
   },
   email: {
     type: String,
@@ -16,29 +24,37 @@ const FacultySchema = new mongoose.Schema({
       isAsync: false,
     },
   },
+  research_area: {
+    type: String,
+    required: false,
+  },
+  research_overview: {
+    type: String,
+    required: false,
+  },
+  publications: {
+    type: String,
+    required: false,
+  },
   photo: {
     type: String,
-    required: true,
+    required: false,
+    default: '',
   },
   overview: {
     type: String,
     required: false,
   },
-  department: {
+  dept_id: {
     type: Schema.Types.ObjectId,
     ref: 'Department',
-    required: [true, 'A Faculty must have a department'],
-  },
-  imgurUrl: {
-    type: String,
     required: false,
-    default: '',
   },
 })
 
 FacultySchema.pre(/^find/, function (next) {
   this.populate({
-    path: 'department',
+    path: 'dept_id',
     select: '-__v',
   })
 

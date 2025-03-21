@@ -18,16 +18,16 @@ const fieldMappings = {
   Photograph: 'photo',
 }
 
-const normalizedData = facultiesData.map((obj) =>
-  Object.keys(obj).reduce((acc, ele) => {
-    const newKey = fieldMappings[ele] || ele
-    acc[newKey] = obj[ele]
-    return acc
-  }, {}),
-)
+// const normalizedData = facultiesData.map((obj) =>
+//   Object.keys(obj).reduce((acc, ele) => {
+//     const newKey = fieldMappings[ele] || ele
+//     acc[newKey] = obj[ele]
+//     return acc
+//   }, {}),
+// )
 const importFaculties = async () => {
   try {
-    for (const faculty of normalizedData) {
+    for (const faculty of facultiesData) {
       await Faculty.insertMany({ ...faculty })
     }
     console.log('faculty members inserted successfully!')
