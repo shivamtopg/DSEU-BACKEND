@@ -1,0 +1,2419 @@
+[
+  {
+    "email": "neharika@iima.ac.in",
+    "password": 50001,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vc@dseu.ac.in",
+    "password": 50002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dr.rihansuri@gmail.com",
+    "password": 10101,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.dahiya@dseu.ac.in",
+    "password": 10301,
+    "designation": "Faculty"
+  },
+  {
+    "email": "provc@dseu.ac.in",
+    "password": 10501,
+    "designation": "Deputy Registrar"
+  },
+  {
+    "email": "sheetu@dseu.ac.in",
+    "password": 10502,
+    "designation": "Deputy Registrar"
+  },
+  {
+    "email": "bindu.nair@dseu.ac.in",
+    "password": 10503,
+    "designation": "Deputy Registrar"
+  },
+  {
+    "email": "ruchika.singh@dseu.ac.in",
+    "password": 10601,
+    "designation": "Assistant Registrar"
+  },
+  {
+    "email": "Parvathy.Unnikrishnan@dseu.ac.in",
+    "password": 10602,
+    "designation": "Assistant Registrar"
+  },
+  {
+    "email": "surender.sharma@dseu.ac.in",
+    "password": 10603,
+    "designation": "Assistant Registrar"
+  },
+  {
+    "email": "ritu.sareen@dseu.ac.in",
+    "password": 20604,
+    "designation": "Assistant Registrar"
+  },
+  {
+    "email": "tarun.yadav@dseu.ac.in",
+    "password": 20605,
+    "designation": "Assistant Registrar"
+  },
+  {
+    "email": "pawanesh.vashistha@gmail.com",
+    "password": 10805,
+    "designation": "Faculty"
+  },
+  {
+    "email": "preeti.bedi@dseu.ac.in",
+    "password": 11001,
+    "designation": "Faculty"
+  },
+  {
+    "email": "lata.rani@dseu.ac.in",
+    "password": 11002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "zehra.zulfikar@dseu.ac.in",
+    "password": 11003,
+    "designation": "Faculty"
+  },
+  {
+    "email": "siddharth.kumar@dseu.ac.in",
+    "password": 11004,
+    "designation": "Faculty"
+  },
+  {
+    "email": "parul.kumar@dseu.ac.in",
+    "password": 11005,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amit.s.khokhar@dseu.ac.in",
+    "password": 11006,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vijay.p.raghuvanshi@dseu.ac.in",
+    "password": 11007,
+    "designation": "Faculty"
+  },
+  {
+    "email": "aman.j.borkar@dseu.ac.in",
+    "password": 11008,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mamta.mittal@dseu.ac.in",
+    "password": 11009,
+    "designation": "Faculty"
+  },
+  {
+    "email": "saurabh.kuntal@dseu.ac.in",
+    "password": 11010,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arun.caretaker@dseu.ac.in",
+    "password": 11011,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kamna.sachdeva@dseu.ac.in",
+    "password": 11012,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kavita.khanna@dseu.ac.in",
+    "password": 11014,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dipali.bansal@dseu.ac.in",
+    "password": 11015,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dipesh.bhardwaj@dseu.ac.in",
+    "password": 11016,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anuj.gupta@dseu.ac.in",
+    "password": 11017,
+    "designation": "Faculty"
+  },
+
+  {
+    "email": "devendra.arya@dseu.ac.in",
+    "password": 11020,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kishanpal95821@gmail.com",
+    "password": 11021,
+    "designation": "Faculty"
+  },
+  {
+    "email": "akshay.kumar@dseu.ac.in",
+    "password": 11022,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anurag.bhagat@dseu.ac.in",
+    "password": 11023,
+    "designation": "Faculty"
+  },
+  {
+    "email": "puskar.s.negi@dseu.ac.in",
+    "password": 11024,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashima.sharma@dseu.ac.in",
+    "password": 11025,
+    "designation": "Faculty"
+  },
+  {
+    "email": "himanshi.baghel@dseu.ac.in",
+    "password": 11026,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gaurav.bhardwaj@dseu.ac.in",
+    "password": 11027,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashish.malhotra@dseu.ac.in",
+    "password": 11028,
+    "designation": "Faculty"
+  },
+  {
+    "email": "niteships@rediffmail.com",
+    "password": 11029,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kireet.srivastava@dseu.ac.in",
+    "password": 11030,
+    "designation": "Executive Engineer"
+  },
+  {
+    "email": "gagan.dhawan@dseu.ac.in",
+    "password": 11031,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Divya.jain@dseu.ac.in",
+    "password": 11032,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shruti.tripathi@dseu.ac.in",
+    "password": 11033,
+    "designation": "Faculty"
+  },
+  {
+    "email": "akashsrm00@gmail.com",
+    "password": 11034,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amitkumar.jaiswal@dseu.ac.in",
+    "password": 11035,
+    "designation": "Faculty"
+  },
+  {
+    "email": "avinash.chandra@dseu.ac.in",
+    "password": 11036,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nagarjunmishra66@gmail.com",
+    "password": 11037,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nileshkumar.shriwastav@dseu.ac.in",
+    "password": 11038,
+    "designation": "Faculty"
+  },
+  {
+    "email": "govindrajsharma@gmail.com",
+    "password": 11039,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sumansourav107@gmail.com",
+    "password": 11040,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dineshkumaras1997@gmail.com",
+    "password": 11041,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kashukomal20012020@gmail.com",
+    "password": 11042,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashwanid16@yahoo.com",
+    "password": 11043,
+    "designation": "Faculty"
+  },
+  {
+    "email": "satyam.dwivedi@dseu.ac.in",
+    "password": 11044,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajvickyp786@gmail.com",
+    "password": 11045,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gargparmesh1999@gmail.com",
+    "password": 11046,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suresh.jha84@gmail.com",
+    "password": 11047,
+    "designation": "Faculty"
+  },
+  {
+    "email": "zainab.samreen@dseu.ac.in",
+    "password": 11048,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepika_mehta29@yahoo.com",
+    "password": 11049,
+    "designation": "Faculty"
+  },
+  {
+    "email": "narender.jena@dseu.ac.in",
+    "password": 11050,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pankaj.singhps@dseu.ac.in",
+    "password": 11051,
+    "designation": "Faculty"
+  },
+  {
+    "email": "senior-ao@dseu.ac.in",
+    "password": 25001,
+    "designation": "Faculty"
+  },
+  {
+    "email": "veena.upadhayay@dseu.ac.in",
+    "password": 25002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shubham.chakra@gov.in",
+    "password": 25003,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sandeep@dseu.ac.in",
+    "password": 25004,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sandeep.suri@dseu.ac.in",
+    "password": 36001,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Chandra.s.srivastava@dseu.ac.in",
+    "password": 36002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajeev.k.gupta@dseu.ac.in",
+    "password": 36003,
+    "designation": "Faculty"
+  },
+  {
+    "email": "phalguni.ghosh@dseu.ac.in",
+    "password": 36004,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.gauri@dseu.ac.in",
+    "password": 36005,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bishwanath.tiwari@dseu.ac.in",
+    "password": 36006,
+    "designation": "Faculty"
+  },
+  {
+    "email": "saumendra.n.das@dseu.ac.in",
+    "password": 36007,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rakesh.k.dhammi@dseu.ac.in",
+    "password": 36008,
+    "designation": "Faculty"
+  },
+  {
+    "email": "charu.gaur@dseu.ac.in",
+    "password": 36009,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Kanwarjeet.singh@dseu.ac.in",
+    "password": 36010,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kiran.pal@dseu.ac.in",
+    "password": 36011,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shalini.sharma@dseu.ac.in",
+    "password": 36012,
+    "designation": "Faculty"
+  },
+  {
+    "email": "swati.varshney@dseu.ac.in",
+    "password": 36013,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vaibhav.chandra@dseu.ac.in",
+    "password": 36014,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gaurav.arora@dseu.ac.in",
+    "password": 36015,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arun.gupta@dseu.ac.in",
+    "password": 36016,
+    "designation": "Faculty"
+  },
+  {
+    "email": "praveen.kumar@dseu.ac.in",
+    "password": 36017,
+    "designation": "Faculty"
+  },
+  {
+    "email": "narayan.agrawal@dseu.ac.in",
+    "password": 36018,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arindam@dseu.ac.in",
+    "password": 37002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vibhakar.shrimail@dseu.acin",
+    "password": 37003,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sandeep.k.mittal@dseu.ac.in",
+    "password": 37004,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ajay.singholi@dseu.ac.in",
+    "password": 37005,
+    "designation": "Faculty"
+  },
+  {
+    "email": "krishna.singh@dseu.ac.in",
+    "password": 37006,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Archana.tomer@dseu.ac.in",
+    "password": 37007,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vishnu.vats@dseu.ac.in",
+    "password": 37008,
+    "designation": "Faculty"
+  },
+  {
+    "email": "padam.singh@dseu.ac.in",
+    "password": 37009,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rohit.anand@dseu.ac.in",
+    "password": 37010,
+    "designation": "Faculty"
+  },
+  {
+    "email": "aman.saini@dseu.ac.in",
+    "password": 37011,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepak.sant@dseu.ac.in",
+    "password": 37012,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mamta.sinha@dseu.ac.in",
+    "password": 37013,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anu.saini@dseu.ac.in",
+    "password": 37014,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jyoti.tripathi@dseu.ac.in",
+    "password": 37015,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manisha.manjul@dseu.ac.in",
+    "password": 37016,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunita.kumari@dseu.ac.in",
+    "password": 37017,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunita.tiwari@dseu.ac.in",
+    "password": 37018,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushil.kumar@dseu.ac.in",
+    "password": 37019,
+    "designation": "Faculty"
+  },
+  {
+    "email": "p.venkateshwari@dseu.ac.in",
+    "password": 37020,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.kumar2@dseu.ac.in",
+    "password": 37021,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jatin.verma@dseu.ac.in",
+    "password": 37022,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manjeet.s.pangtey@dseu.ac.in",
+    "password": 37023,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vadthya.bheemudu@dseu.ac.in",
+    "password": 37024,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kundan.k.chandan@dseu.ac.in",
+    "password": 37025,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bhajneet.singh@dseu.ac.in",
+    "password": 37026,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dayanidhikrishana.pathak@dseu.ac.in",
+    "password": 37027,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rishu.sharma@dseu.ac.in",
+    "password": 37028,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anil.kumar1@dseu.ac.in",
+    "password": 37029,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anurag.dixit@dseu.ac.in",
+    "password": 37030,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jitender.kumar1@dseu.ac.in",
+    "password": 37031,
+    "designation": "Faculty"
+  },
+  {
+    "email": "saravanan.p@dseu.ac.in",
+    "password": 37032,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vineet.kumar@dseu.ac.in",
+    "password": 37033,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mukesh.kumar2@dseu.ac.in",
+    "password": 37034,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jayant.supale@dseu.ac.in",
+    "password": 37035,
+    "designation": "Faculty"
+  },
+  {
+    "email": "chandra.m.dharmapuri@dseu.ac.in",
+    "password": 37036,
+    "designation": "Faculty"
+  },
+  {
+    "email": "irwinosmond.toppo@dseu.ac.in",
+    "password": 37037,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amit.r.khaparde@dseu.ac.in",
+    "password": 37038,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ajay.lamba@dseu.ac.in",
+    "password": 37039,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jagvir.singh@dseu.ac.in",
+    "password": 38001,
+    "designation": "Faculty"
+  },
+  {
+    "email": "r.d.sharma@dseu.ac.in",
+    "password": 38002,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajat.pardal@dseu.ac.in",
+    "password": 38003,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rita.malik@dseu.ac.in",
+    "password": 38004,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kinaram.halder@dseu.ac.in",
+    "password": 38005,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mamta.jain@dseu.ac.in",
+    "password": 38006,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sangita.passey@dseu.ac.in",
+    "password": 38007,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushma.sharma@dseu.ac.in",
+    "password": 38008,
+    "designation": "Faculty"
+  },
+  {
+    "email": "director-pit@dseu.ac.in",
+    "password": 38009,
+    "designation": "Faculty"
+  },
+  {
+    "email": "niranjan.lal@dseu.ac.in",
+    "password": 38010,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anil.k.choudhary@dseu.ac.in",
+    "password": 38011,
+    "designation": "Faculty"
+  },
+  {
+    "email": "udita.malaviya@dseu.ac.in",
+    "password": 38012,
+    "designation": "Faculty"
+  },
+  {
+    "email": "palwinder.kaur@dseu.ac.in",
+    "password": 38013,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shalini.hansrani@dseu.ac.in",
+    "password": 38014,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Neeta.garg@dseu.ac.in",
+    "password": 38015,
+    "designation": "Faculty"
+  },
+  {
+    "email": "op.shukla2008@gmail.com",
+    "password": 38016,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neeru.mehta@dseu.ac.in",
+    "password": 38017,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rekha.keshap@dseu.ac.in",
+    "password": 38018,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashok.k.ahluwalia@dseu.ac.in",
+    "password": 38019,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajkumar.mangoch@dseu.ac.in",
+    "password": 38020,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arvinder.kaur@dseu.ac.in",
+    "password": 38021,
+    "designation": "Faculty"
+  },
+  {
+    "email": "satish.kumar2@dseu.ac.in",
+    "password": 38022,
+    "designation": "Faculty"
+  },
+  {
+    "email": "akhilesh.kumar1@dseu.ac.in",
+    "password": 38024,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jay.p.soja@dseu.ac.in",
+    "password": 38025,
+    "designation": "Faculty"
+  },
+  {
+    "email": "hemraj.meena@dseu.ac.in",
+    "password": 38026,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Krishna.k.prasad@dseu.ac.in",
+    "password": 38027,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jaivir@dseu.ac.in",
+    "password": 38028,
+    "designation": "Faculty"
+  },
+  {
+    "email": "porusu.ramanaiah@dseu.ac.in",
+    "password": 38029,
+    "designation": "Faculty"
+  },
+  {
+    "email": "puneet.a.singh@dseu.ac.in",
+    "password": 38030,
+    "designation": "Faculty"
+  },
+  {
+    "email": "satyavati.garg@dseu.ac.in",
+    "password": 38031,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jayanta.g.roy@dseu.ac.in",
+    "password": 38032,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shambhu.p.meher@dseu.ac.in",
+    "password": 38033,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shashank.gupta@dseu.ac.in",
+    "password": 38034,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ravinder.singh@dseu.ac.in",
+    "password": 38035,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mewa.lal@dseu.ac.in",
+    "password": 38036,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manju.jain@dseu.ac.in",
+    "password": 38037,
+    "designation": "Faculty"
+  },
+  {
+    "email": "naveen.makhijani@dseu.ac.in",
+    "password": 38038,
+    "designation": "Faculty"
+  },
+  {
+    "email": "s.v.vageesha@dseu.ac.in",
+    "password": 38039,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anupam.k.upadhyay@dseu.ac.in",
+    "password": 38040,
+    "designation": "Faculty"
+  },
+  {
+    "email": "trineshwar.k.bhagat@dseu.ac.in",
+    "password": 38041,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manojkumar.singh@dseu.ac.in",
+    "password": 38042,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjura.ho@dseu.ac.in",
+    "password": 38043,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vinod.k.singoria@dseu.ac.in",
+    "password": 38044,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dipankar.mishra@dseu.ac.in",
+    "password": 38045,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anand.tembulkar@dseu.ac.in",
+    "password": 38046,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rashmi.srivastava@dseu.ac.in",
+    "password": 38047,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Harminder.s.bhatia@dseu.ac.in",
+    "password": 38048,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kumar.r.ranjan@dseu.ac.in",
+    "password": 38049,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ram.pal@dseu.ac.in",
+    "password": 38050,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sree.v.devi@dseu.ac.in",
+    "password": 38051,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vanita.pimparkar@dseu.ac.in",
+    "password": 38052,
+    "designation": "Faculty"
+  },
+  {
+    "email": "makarand.d.joshi@dseu.ac.in",
+    "password": 38053,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.k.yadav@dseu.ac.in",
+    "password": 38054,
+    "designation": "Faculty"
+  },
+  {
+    "email": "priti.singh@dseu.ac.in",
+    "password": 38055,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shelly.goel@dseu.ac.in",
+    "password": 38056,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Rajinder@dseu.ac.in",
+    "password": 38057,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sumitra.yadav@dseu.ac.in",
+    "password": 38058,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nilanjana.ray@dseu.ac.in",
+    "password": 38059,
+    "designation": "Faculty"
+  },
+  {
+    "email": "yogeswari.tolia@dseu.ac.in",
+    "password": 38060,
+    "designation": "Faculty"
+  },
+  {
+    "email": "virendra.k.tiwari@dseu.ac.in",
+    "password": 38061,
+    "designation": "Faculty"
+  },
+  {
+    "email": "harjeet.singh@dseu.ac.in",
+    "password": 38062,
+    "designation": "Faculty"
+  },
+  {
+    "email": "subhashish.banerjee@dseu.ac.in",
+    "password": 38063,
+    "designation": "Faculty"
+  },
+  {
+    "email": "aftab.alam@dseu.ac.in",
+    "password": 38064,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sambit.k.mistri@dseu.ac.in",
+    "password": 38065,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jitendra.kumar@dseu.ac.in",
+    "password": 38066,
+    "designation": "Faculty"
+  },
+  {
+    "email": "laliteshwarprasad.sinha@dseu.ac.in",
+    "password": 38067,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjeevkumar.verma@dseu.ac.in",
+    "password": 38068,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sangeeta.bhatia@dseu.ac.in",
+    "password": 38069,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bhim.singh@dseu.ac.in",
+    "password": 38070,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manju.kumari@dseu.ac.in",
+    "password": 38071,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sampurnananda.mishra@dseu.ac.in",
+    "password": 38072,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vimal.katiyar@dseu.ac.in",
+    "password": 38073,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bhola.pathak@dseu.ac.in",
+    "password": 38074,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vagish.kumar@dseu.ac.in",
+    "password": 38075,
+    "designation": "Faculty"
+  },
+  {
+    "email": "asha.singh@dseu.ac.in",
+    "password": 38076,
+    "designation": "Faculty"
+  },
+  {
+    "email": "abhijit.chatterjee@dseu.ac.in",
+    "password": 38077,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dineshwar.sharma@dseu.ac.in",
+    "password": 38078,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushma.rani@dseu.ac.in",
+    "password": 38079,
+    "designation": "Faculty"
+  },
+  {
+    "email": "somendra.prakash@dseu.ac.in",
+    "password": 38080,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vijay.kumar@dseu.ac.in",
+    "password": 38081,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pramod.k.goyal@dseu.ac.in",
+    "password": 38082,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bhupendra.kumar@dseu.ac.in",
+    "password": 38083,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gurdevinder.s.bajwa@dseu.ac.in",
+    "password": 38084,
+    "designation": "Faculty"
+  },
+  {
+    "email": "g.daniel@dseu.ac.in",
+    "password": 38085,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashwani@dseu.ac.in",
+    "password": 38086,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anil.kumar2@dseu.ac.in",
+    "password": 38087,
+    "designation": "Faculty"
+  },
+  {
+    "email": "usha.raju@dseu.ac.in",
+    "password": 38088,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Om.p.regar@dseu.ac.in",
+    "password": 38089,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ranbir.singh1@dseu.ac.in",
+    "password": 38090,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mukesh.kumar1@dseu.ac.in",
+    "password": 38091,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashok.kumar1@dseu.ac.in",
+    "password": 38092,
+    "designation": "Faculty"
+  },
+  {
+    "email": "a.subramanyam@dseu.ac.in",
+    "password": 38093,
+    "designation": "Faculty"
+  },
+  {
+    "email": "c.kennedy@dseu.ac.in",
+    "password": 38094,
+    "designation": "Faculty"
+  },
+  {
+    "email": "m.anbalagan@dseu.ac.in",
+    "password": 38095,
+    "designation": "Faculty"
+  },
+  {
+    "email": "prof.satish.kumar@dseu.ac.in",
+    "password": 38096,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arun.dabas@dseu.ac.in",
+    "password": 38097,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunil.k.tiwari@dseu.ac.in",
+    "password": 38098,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mukul.kumar@dseu.ac.in",
+    "password": 38099,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suresh.k.barnwal@dseu.ac.in",
+    "password": 38100,
+    "designation": "Faculty"
+  },
+  {
+    "email": "hiranmay.biswas@dseu.ac.in",
+    "password": 38101,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushmita.biswas@dseu.ac.in",
+    "password": 38102,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sachidananda.mallick@dseu.ac.in",
+    "password": 38103,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suneet@dseu.ac.in",
+    "password": 38104,
+    "designation": "Faculty"
+  },
+  {
+    "email": "preeti.vajpayi@dseu.ac.in",
+    "password": 38105,
+    "designation": "Faculty"
+  },
+  {
+    "email": "satish.kumar3@dseu.ac.in",
+    "password": 38106,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shyam.m.parashar@dseu.ac.in",
+    "password": 38107,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushil.k.awasthi@dseu.ac.in",
+    "password": 38108,
+    "designation": "Faculty"
+  },
+  {
+    "email": "seema.nagrath@dseu.ac.in",
+    "password": 38109,
+    "designation": "Faculty"
+  },
+  {
+    "email": "simmi.kochar@dseu.ac.in",
+    "password": 38110,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sushil.Chandra@dseu.ac.in",
+    "password": 38111,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sandeep.handa@dseu.ac.in",
+    "password": 38112,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajinder.singh@dseu.ac.in",
+    "password": 38113,
+    "designation": "Faculty"
+  },
+  {
+    "email": "subrata.k.patra@dseu.ac.in",
+    "password": 38114,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jaiprakash@dseu.ac.in",
+    "password": 38115,
+    "designation": "Faculty"
+  },
+  {
+    "email": "murlidhar.s.kamble@dseu.ac.in",
+    "password": 38116,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shiv.r.singh@dseu.ac.in",
+    "password": 38117,
+    "designation": "Faculty"
+  },
+  {
+    "email": "punita.duhan@dseu.ac.in",
+    "password": 38118,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rita.mandal@dseu.ac.in",
+    "password": 38119,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.sharma@dseu.ac.in",
+    "password": 38120,
+    "designation": "Faculty"
+  },
+  {
+    "email": "g.n.giri@dseu.ac.in",
+    "password": 38121,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shivani.neb@dseu.ac.in",
+    "password": 38122,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jai.k.bansal@dseu.ac.in",
+    "password": 38123,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shubha.g.v@dseu.ac.in",
+    "password": 38124,
+    "designation": "Faculty"
+  },
+  {
+    "email": "geeta.bhatia@dseu.ac.in",
+    "password": 38125,
+    "designation": "Faculty"
+  },
+  {
+    "email": "laxmi.n.meena@dseu.ac.in",
+    "password": 38126,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mutnuru.s.rao@dseu.ac.in",
+    "password": 38127,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pankaj.k.ghosh@dseu.ac.in",
+    "password": 38128,
+    "designation": "Faculty"
+  },
+  {
+    "email": "john.devakumar@dseu.ac.in",
+    "password": 38129,
+    "designation": "Faculty"
+  },
+  {
+    "email": "palla.dasthagiraiah@dseu.ac.in",
+    "password": 38130,
+    "designation": "Faculty"
+  },
+  {
+    "email": "boben.singh@dseu.ac.in",
+    "password": 38131,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepak.sharma@dseu.ac.in",
+    "password": 38132,
+    "designation": "Faculty"
+  },
+  {
+    "email": "yashpal@dseu.ac.in",
+    "password": 38133,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Ravi.prakash@dseu.ac.in",
+    "password": 38134,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Miniti.binju@dseu.ac.in",
+    "password": 38135,
+    "designation": "Faculty"
+  },
+  {
+    "email": "achla.kaushal@dseu.ac.in",
+    "password": 38136,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shyam.b.bambiwal@dseu.ac.in",
+    "password": 38137,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rekha.hemal@dseu.ac.in",
+    "password": 38138,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anil.kumar@dseu.ac.in",
+    "password": 38139,
+    "designation": "Faculty"
+  },
+  {
+    "email": "director-mbit@dseu.ac.in",
+    "password": 38140,
+    "designation": "Faculty"
+  },
+  {
+    "email": "syed.m.tarique@dseu.ac.in",
+    "password": 38141,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rakesh.k.verma@dseu.ac.in",
+    "password": 38142,
+    "designation": "Faculty"
+  },
+  {
+    "email": "skdubey1995@yahoo.com",
+    "password": 38143,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jaji.varghese@dseu.ac.in",
+    "password": 38144,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mahender.kyadari@dseu.ac.in",
+    "password": 38145,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anilchandra.deb@dseu.ac.in",
+    "password": 38146,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajesh.soni@dseu.ac.in",
+    "password": 38147,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shivaji.l.bhandarkar@dseu.ac.in",
+    "password": 38148,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sandeep.saxena@dseu.ac.in",
+    "password": 38149,
+    "designation": "Faculty"
+  },
+  {
+    "email": "basavaraja@dseu.ac.in",
+    "password": 38150,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mohammad.arshad@dseu.ac.in",
+    "password": 38151,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Sushil.kumar1@dseu.ac.in",
+    "password": 38152,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sangeeta.jain@dseu.ac.in",
+    "password": 38153,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ranbir.s.sharma@dseu.ac.in",
+    "password": 38154,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunita.chugh@dseu.ac.in",
+    "password": 38155,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rakesh.kumar@dseu.ac.in",
+    "password": 38156,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ved.kumari@dseu.ac.in",
+    "password": 38157,
+    "designation": "Faculty"
+  },
+  {
+    "email": "n.s.babu@dseu.ac.in",
+    "password": 38158,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mansi.singhi@dseu.ac.in",
+    "password": 38159,
+    "designation": "Faculty"
+  },
+  {
+    "email": "b.m.jabarullah@dseu.ac.in",
+    "password": 38160,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ragini.gupta@dseu.ac.in",
+    "password": 38161,
+    "designation": "Faculty"
+  },
+  {
+    "email": "k.sivaraman@dseu.ac.in",
+    "password": 38162,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dharamveersingh.grewal@dseu.ac.in",
+    "password": 38163,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bharat.sanga@dseu.ac.in",
+    "password": 38164,
+    "designation": "Faculty"
+  },
+  {
+    "email": "umesh.chand@dseu.ac.in",
+    "password": 38165,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manoj.k.mishra@dseu.ac.in",
+    "password": 38166,
+    "designation": "Faculty"
+  },
+  {
+    "email": "raj.k.verma@dseu.ac.in",
+    "password": 38167,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dinanath@dseu.ac.in",
+    "password": 38168,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mukesh.k.gupta@dseu.ac.in",
+    "password": 38169,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neelam.sharma@dseu.ac.in",
+    "password": 38170,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ghanshyam@dseu.ac.in",
+    "password": 38171,
+    "designation": "Faculty"
+  },
+  {
+    "email": "r.haribaskar@gov.in",
+    "password": 38172,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anil.k.mishra@dseu.ac.in",
+    "password": 38173,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.das@dseu.ac.in",
+    "password": 38174,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gurmandeep.kaur@dseu.ac.in",
+    "password": 38175,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nidhi.goswami@dseu.ac.in",
+    "password": 38176,
+    "designation": "Faculty"
+  },
+  {
+    "email": "virender.dagar@dseu.ac.in",
+    "password": 38177,
+    "designation": "Faculty"
+  },
+  {
+    "email": "g.t.charyulu@dseu.ac.in",
+    "password": 38178,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ravinder.s.chauhan@dseu.ac.in",
+    "password": 38179,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjeev.verma@dseu.ac.in",
+    "password": 38180,
+    "designation": "Faculty"
+  },
+  {
+    "email": "adarsh.kumar@dseu.ac.in",
+    "password": 38181,
+    "designation": "Faculty"
+  },
+  {
+    "email": "harvinder.kaur@dseu.ac.in",
+    "password": 38182,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manish.sthapak@dseu.ac.in",
+    "password": 38183,
+    "designation": "Faculty"
+  },
+  {
+    "email": "syed.m.qamaruzzaman@dseu.ac.in",
+    "password": 38184,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ritu.grover@dseu.ac.in",
+    "password": 38185,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jiten.boruah@dseu.ac.in",
+    "password": 38186,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kaushal.mehta@dseu.ac.in",
+    "password": 38187,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shailesh.k.trivedi@dseu.ac.in",
+    "password": 38188,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anadi.b.vashistha@dseu.ac.in",
+    "password": 38189,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mayank.pande@dseu.ac.in",
+    "password": 38190,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ajoy.k.saikia@dseu.ac.in",
+    "password": 38191,
+    "designation": "Faculty"
+  },
+  {
+    "email": "monica.chopra@dseu.ac.in",
+    "password": 38192,
+    "designation": "Faculty"
+  },
+  {
+    "email": "abdul.h.ansari@dseu.ac.in",
+    "password": 38193,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Sarita.dash@dseu.ac.in",
+    "password": 38194,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mamta.senger@dseu.ac.in",
+    "password": 38195,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mamata.r.singh@dseu.ac.in",
+    "password": 38196,
+    "designation": "Faculty"
+  },
+  {
+    "email": "radha.c.puta@dseu.ac.in",
+    "password": 38197,
+    "designation": "Faculty"
+  },
+  {
+    "email": "devinder.kumar@dseu.ac.in",
+    "password": 38198,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gurvinder.singh@dseu.ac.in",
+    "password": 38199,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ravindra.kumar@dseu.ac.in",
+    "password": 38200,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jyoti.kulkarni@dseu.ac.in",
+    "password": 38201,
+    "designation": "Faculty"
+  },
+  {
+    "email": "c.arumugam@dseu.ac.in",
+    "password": 38202,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mukesh.k.varma@dseu.ac.in",
+    "password": 38203,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jaipal.bhowate@dseu.ac.in",
+    "password": 38204,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neetu.mehta@dseu.ac.in",
+    "password": 38205,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pravir@dseu.ac.in",
+    "password": 38206,
+    "designation": "Faculty"
+  },
+  {
+    "email": "surendra.k.gupta@dseu.ac.in",
+    "password": 38207,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajesh.w.kolte@dseu.ac.in",
+    "password": 38208,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kiran.kushwaha@dseu.ac.in",
+    "password": 38209,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suman.dhawan@dseu.ac.in",
+    "password": 38210,
+    "designation": "Faculty"
+  },
+  {
+    "email": "harnamo.ram@dseu.ac.in",
+    "password": 38211,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajesh.b.walde@dseu.ac.in",
+    "password": 38212,
+    "designation": "Faculty"
+  },
+  {
+    "email": "s.p.kumar@dseu.ac.in",
+    "password": 38213,
+    "designation": "Faculty"
+  },
+  {
+    "email": "preeti.n.dongre@dseu.ac.in",
+    "password": 38214,
+    "designation": "Faculty"
+  },
+  {
+    "email": "akhilesh.kumar@dseu.ac.in",
+    "password": 38215,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kripanand.jha@dseu.ac.in",
+    "password": 38216,
+    "designation": "Faculty"
+  },
+  {
+    "email": "b.shanmugasundaram@dseu.ac.in",
+    "password": 38217,
+    "designation": "Faculty"
+  },
+  {
+    "email": "girish.k.sharma@dseu.ac.in",
+    "password": 38218,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepak.sharma1@dseu.ac.in",
+    "password": 38219,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shrikant.patel@dseu.ac.in",
+    "password": 38220,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pankaj.lathar@dseu.ac.in",
+    "password": 38221,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manoj.kumar@dseu.ac.in",
+    "password": 38222,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shagufta.yasmin@dseu.ac.in",
+    "password": 38223,
+    "designation": "Faculty"
+  },
+  {
+    "email": "gaganbir.kaur@dseu.ac.in",
+    "password": 38224,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suman.mann@dseu.ac.in",
+    "password": 38225,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nanak.ram@dseu.ac.in",
+    "password": 38226,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bharatsingh.yadav@dseu.ac.in",
+    "password": 38227,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kapil.gawri@dseu.ac.in",
+    "password": 38228,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ajay.chhillar@dseu.ac.in",
+    "password": 38229,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deivanai.s@dseu.ac.in",
+    "password": 38230,
+    "designation": "Faculty"
+  },
+  {
+    "email": "lokesh.kumar@dseu.ac.in",
+    "password": 38231,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunil.k.gupta@dseu.ac.in",
+    "password": 38232,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anurag.kumar@dseu.ac.in",
+    "password": 38233,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sarika@dseu.ac.in",
+    "password": 38234,
+    "designation": "Faculty"
+  },
+  {
+    "email": "atul.k.srivastava@dseu.ac.in",
+    "password": 38235,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ratnesh.gupta@dseu.ac.in",
+    "password": 38236,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sukhwinder.j.bhatti@dseu.ac.in",
+    "password": 38237,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Satish.kumar1@dseu.ac.in",
+    "password": 38238,
+    "designation": "Faculty"
+  },
+  {
+    "email": "hemlata.nayak@dseu.ac.in",
+    "password": 38239,
+    "designation": "Faculty"
+  },
+  {
+    "email": "chittaranjan.swain@dseu.ac.in",
+    "password": 38240,
+    "designation": "Faculty"
+  },
+  {
+    "email": "riniyo.nani@dseu.ac.in",
+    "password": 38241,
+    "designation": "Faculty"
+  },
+  {
+    "email": "reetu.r@dseu.ac.in",
+    "password": 38242,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arti.b.sagar@dseu.ac.in",
+    "password": 38243,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunil.kaushik@dseu.ac.in",
+    "password": 38244,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rakesh.goswami@dseu.ac.in",
+    "password": 38245,
+    "designation": "Faculty"
+  },
+  {
+    "email": "hardev.meena@dseu.ac.in",
+    "password": 38246,
+    "designation": "Faculty"
+  },
+  {
+    "email": "servavidya.k.manas@dseu.ac.in",
+    "password": 38247,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nitesh.mathur@dseu.ac.in",
+    "password": 38248,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vinayak.v.ketkar@dseu.ac.in",
+    "password": 38249,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ajay.kumar@dseu.ac.in",
+    "password": 38250,
+    "designation": "Faculty"
+  },
+  {
+    "email": "prabhakar.sharma@dseu.ac.in",
+    "password": 38251,
+    "designation": "Faculty"
+  },
+  {
+    "email": "jagdish.n.gupta@dseu.ac.in",
+    "password": 38252,
+    "designation": "Faculty"
+  },
+  {
+    "email": "prashant.kumar@dseu.ac.in",
+    "password": 38253,
+    "designation": "Faculty"
+  },
+  {
+    "email": "prashant.c.ramteke@dseu.ac.in",
+    "password": 38254,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amira.nisar@dseu.ac.in",
+    "password": 38255,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepak.k.sainy@dseu.ac.in",
+    "password": 38256,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dinesh.yadav@dseu.ac.in",
+    "password": 38257,
+    "designation": "Faculty"
+  },
+  {
+    "email": "karambir.na@dseu.ac.in",
+    "password": 38258,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ramesh.natrajan@dseu.ac.in",
+    "password": 38259,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sagar.prasad@dseu.ac.in",
+    "password": 38260,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rachit.saxena@dseu.ac.in",
+    "password": 38261,
+    "designation": "Faculty"
+  },
+  {
+    "email": "brijesh.dager@dseu.ac.in",
+    "password": 38262,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjeev.kumar2@dseu.ac.in",
+    "password": 38263,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anurupa@dseu.ac.in",
+    "password": 38264,
+    "designation": "Faculty"
+  },
+  {
+    "email": "lalit.batra@dseu.ac.in",
+    "password": 38265,
+    "designation": "Faculty"
+  },
+  {
+    "email": "deepak@dseu.ac.in",
+    "password": 38266,
+    "designation": "Faculty"
+  },
+  {
+    "email": "h.r.naik@dseu.ac.in",
+    "password": 38267,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manoj.k.sah@dseu.ac.in",
+    "password": 38268,
+    "designation": "Faculty"
+  },
+  {
+    "email": "naveen.k.garg@dseu.ac.in",
+    "password": 38269,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajesh.chhikara@dseu.ac.in",
+    "password": 38270,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amit.kadian@dseu.ac.in",
+    "password": 38271,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neha.kaushik@dseu.ac.in",
+    "password": 38272,
+    "designation": "Faculty"
+  },
+  {
+    "email": "inderjeet@dseu.ac.in",
+    "password": 38273,
+    "designation": "Faculty"
+  },
+  {
+    "email": "indu.chhillar@dseu.ac.in",
+    "password": 38274,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nisha@dseu.ac.in",
+    "password": 38275,
+    "designation": "Faculty"
+  },
+  {
+    "email": "akhileshwar.p.agrawal@dseu.ac.in",
+    "password": 38276,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amit.k.yadav@dseu.ac.in",
+    "password": 38277,
+    "designation": "Faculty"
+  },
+  {
+    "email": "alpna.singh@dseu.ac.in",
+    "password": 38278,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sunita.k.chaurasia@dseu.ac.in",
+    "password": 38279,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kumar.b.chandra@dseu.ac.in",
+    "password": 38280,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Rajashree.chaurasia@dseu.ac.in",
+    "password": 38281,
+    "designation": "Faculty"
+  },
+  {
+    "email": "munesh.meena@dseu.ac.in",
+    "password": 38282,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ritesh.jain@dseu.ac.in",
+    "password": 38283,
+    "designation": "Faculty"
+  },
+  {
+    "email": "arup.s.bhaumik@dseu.ac.in",
+    "password": 38284,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Vinita.gupta@dseu.ac.in",
+    "password": 38285,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bharath.k.nakka@dseu.ac.in",
+    "password": 38286,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sudipta.acharjee@dseu.ac.in",
+    "password": 38287,
+    "designation": "Faculty"
+  },
+  {
+    "email": "prashant.p@dseu.ac.in",
+    "password": 38288,
+    "designation": "Faculty"
+  },
+  {
+    "email": "parul.aggarwal@dseu.ac.in",
+    "password": 38289,
+    "designation": "Faculty"
+  },
+  {
+    "email": "k.d.kumar@dseu.ac.in",
+    "password": 38290,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Kiran.dhangar@dseu.ac.in",
+    "password": 38291,
+    "designation": "Faculty"
+  },
+  {
+    "email": "Pritpal.singh@dseu.ac.in",
+    "password": 38292,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajesh.kumar@dseu.ac.in",
+    "password": 38293,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rohit.sharma@dseu.ac.in",
+    "password": 38294,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajat.s.halder@dseu.ac.in",
+    "password": 38295,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anuj.modi@dseu.ac.in",
+    "password": 38296,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nitin.jain@dseu.ac.in",
+    "password": 38297,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rashmi@dseu.ac.in",
+    "password": 38298,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dipak.d.gadade@dseu.ac.in",
+    "password": 38299,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rekha.valecha@dseu.ac.in",
+    "password": 38300,
+    "designation": "Faculty"
+  },
+  {
+    "email": "namrata.pandey@dseu.ac.in",
+    "password": 38301,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neelesh@dseu.ac.in",
+    "password": 38302,
+    "designation": "Faculty"
+  },
+  {
+    "email": "aman.shukla@dseu.ac.in",
+    "password": 38303,
+    "designation": "Faculty"
+  },
+  {
+    "email": "dhirender.kaushik@dseu.ac.in",
+    "password": 38304,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kapil.agrawal@dseu.ac.in",
+    "password": 38305,
+    "designation": "Faculty"
+  },
+  {
+    "email": "sanjay.bharti@dseu.ac.in",
+    "password": 38306,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suman.yadav@dseu.ac.in",
+    "password": 38307,
+    "designation": "Faculty"
+  },
+  {
+    "email": "tushar.dev@dseu.ac.in",
+    "password": 38308,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vivek.chauhan@dseu.ac.in",
+    "password": 38309,
+    "designation": "Faculty"
+  },
+  {
+    "email": "himanshu.rawat@dseu.ac.in",
+    "password": 38310,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bilal.khan@dseu.ac.in",
+    "password": 38311,
+    "designation": "Faculty"
+  },
+  {
+    "email": "chirag.d.beck@dseu.ac.in",
+    "password": 38312,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vikash.gaur@dseu.ac.in",
+    "password": 38313,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mohd.s.khan@dseu.ac.in",
+    "password": 38314,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anantabotla.vamsimohan@dseu.ac.in",
+    "password": 38315,
+    "designation": "Faculty"
+  },
+  {
+    "email": "amit.godara@dseu.ac.in",
+    "password": 38316,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nitish.kumar@dseu.ac.in",
+    "password": 38317,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shivam.gupta@dseu.ac.in",
+    "password": 38318,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nishant.hadda@dseu.ac.in",
+    "password": 38319,
+    "designation": "Faculty"
+  },
+  {
+    "email": "pawan.kumar@dseu.ac.in",
+    "password": 38320,
+    "designation": "Faculty"
+  },
+  {
+    "email": "monika.agarwal@dseu.ac.in",
+    "password": 38321,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vivek.k.singh@dseu.ac.in",
+    "password": 38322,
+    "designation": "Faculty"
+  },
+  {
+    "email": "babul.das@dseu.ac.in",
+    "password": 38323,
+    "designation": "Faculty"
+  },
+  {
+    "email": "manchuri.d.reddy@dseu.ac.in",
+    "password": 38324,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shantilal.dawar@dseu.ac.in",
+    "password": 38325,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ashaq.ahanger@dseu.ac.in",
+    "password": 38326,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ekta.sharma@dseu.ac.in",
+    "password": 38327,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shuyabahmed.s.patil@dseu.ac.in",
+    "password": 38328,
+    "designation": "Faculty"
+  },
+  {
+    "email": "carynthia.kharkongor@dseu.ac.in",
+    "password": 38329,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kusan.biswas@dseu.ac.in",
+    "password": 38330,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kavindar.tiwari@dseu.ac.in",
+    "password": 38331,
+    "designation": "Faculty"
+  },
+  {
+    "email": "anuj.kalra@dseu.ac.in",
+    "password": 38332,
+    "designation": "Faculty"
+  },
+  {
+    "email": "komal.dhingra@dseu.ac.in",
+    "password": 38333,
+    "designation": "Faculty"
+  },
+  {
+    "email": "abhijeet.singh@dseu.ac.in",
+    "password": 38334,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rakesh.raj@dseu.ac.in",
+    "password": 38335,
+    "designation": "Faculty"
+  },
+  {
+    "email": "neelu.mishra@dseu.ac.in",
+    "password": 38336,
+    "designation": "Faculty"
+  },
+  {
+    "email": "bharti.b@dseu.ac.in",
+    "password": 38337,
+    "designation": "Faculty"
+  },
+  {
+    "email": "mayank.kumar@dseu.ac.in",
+    "password": 38338,
+    "designation": "Faculty"
+  },
+  {
+    "email": "devendra.kumar@dseu.ac.in",
+    "password": 38339,
+    "designation": "Faculty"
+  },
+  {
+    "email": "syed.a.ashraf@dseu.ac.in",
+    "password": 38340,
+    "designation": "Faculty"
+  },
+  {
+    "email": "preeti.saini@dseu.ac.in",
+    "password": 38341,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kalp.mishra@dseu.ac.in",
+    "password": 38342,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ivan.c.bhengra@dseu.ac.in",
+    "password": 38343,
+    "designation": "Faculty"
+  },
+  {
+    "email": "ram.gopal@dseu.ac.in",
+    "password": 38344,
+    "designation": "Faculty"
+  },
+  {
+    "email": "vicky.kumar@dseu.ac.in",
+    "password": 38345,
+    "designation": "Faculty"
+  },
+  {
+    "email": "goutam.panda@dseu.ac.in",
+    "password": 38346,
+    "designation": "Faculty"
+  },
+  {
+    "email": "suresh.k.mahaseth@dseu.ac.in",
+    "password": 38347,
+    "designation": "Faculty"
+  },
+  {
+    "email": "soorajkannupandi.pillai@dseu.ac.in",
+    "password": 38348,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kashmira.majhi@dseu.ac.in",
+    "password": 38349,
+    "designation": "Faculty"
+  },
+  {
+    "email": "smruti.mohapatra@dseu.ac.in",
+    "password": 38350,
+    "designation": "Faculty"
+  },
+  {
+    "email": "nihal.jain@dseu.ac.in",
+    "password": 38351,
+    "designation": "Faculty"
+  },
+  {
+    "email": "shubhabrata.nath@dseu.ac.in",
+    "password": 38352,
+    "designation": "Faculty"
+  },
+  {
+    "email": "rajan.tiwari@dseu.ac.in",
+    "password": 38353,
+    "designation": "Faculty"
+  },
+  {
+    "email": "kuldeep.kumar@dseu.ac.in",
+    "password": 38354,
+    "designation": "Faculty"
+  },
+  {
+    "email": "aditya.kumar@dseu.ac.in",
+    "password": 38355,
+    "designation": "Faculty"
+  },
+
+  {
+    "email": "lakku.ramavath@dseu.ac.in",
+    "password": 38357,
+    "designation": "Faculty"
+  },
+  {
+    "email": "klkanaklata81@gmail.com",
+    "password": 38358,
+    "designation": "Faculty"
+  },
+  {
+    "email": "agrim.kumar@dseu.ac.in",
+    "password": 10801,
+    "designation": "Training & Placement Officer"
+  },
+  {
+    "email": "ahmadomair@ymail.com",
+    "password": 10802,
+    "designation": "Training & Placement Officer"
+  },
+  {
+    "email": "niharika.pandey@dseu.ac.in",
+    "password": 10803,
+    "designation": "Training & Placement Officer"
+  },
+  {
+    "email": "ravinder.jhorar@dseu.ac.in",
+    "password": 10804,
+    "designation": "Training & Placement Officer"
+  },
+  {
+    "email": "kaushalender.varma@dseu.ac.in",
+    "password": 11013,
+    "designation": "Training & Placement Officer"
+  },
+  {
+    "email": "priya.panchal@dseu.ac.in",
+    "password": 38356,
+    "designation": "Faculty"
+  }
+]
