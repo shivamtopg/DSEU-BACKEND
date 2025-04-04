@@ -33,5 +33,16 @@ const getProgramsByDepartment = catchAsync(async (req, resp, next) => {
     },
   });
 });
+const getPrograms = catchAsync(async (req, resp, next) => {
+  const programs = await Program.find().populate("department");
 
-module.exports = { createProgram, getProgramsByDepartment };
+  resp.status(200).json({
+    status: "success",
+    results: programs?.length,
+    data: {
+      programs,
+    },
+  });
+});
+
+module.exports = { createProgram, getProgramsByDepartment, getPrograms };
