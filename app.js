@@ -13,6 +13,7 @@ const departmentSchoolsRoutes = require("./routes/departmentSchoolRoutes");
 const authRoutes = require("./dev-data/tokens/generateGoogleTokens");
 const noticeRoutes = require("./routes/noticeRoutes");
 const programRoutes = require("./routes/programRoutes.js");
+const campusRoutes = require("./routes/campusRoutes.js");
 
 const connectDB = require("./config/db");
 
@@ -41,6 +42,7 @@ app.use("/api/v1/departmentSchools", departmentSchoolsRoutes);
 app.use("/api/v1/auth", userRoutes);
 app.use("/api/v1/notice", noticeRoutes);
 app.use("/api/v1/program", programRoutes);
+app.use("/api/v1/campus", campusRoutes);
 
 app.use("/auth", authRoutes);
 
