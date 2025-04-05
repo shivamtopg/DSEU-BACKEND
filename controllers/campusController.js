@@ -12,4 +12,16 @@ const createCampus = catchAsync(async (req, resp, next) => {
   });
 });
 
-module.exports = { createCampus };
+const getCampuses = catchAsync(async (req, resp, next) => {
+  const campuses = await Campus.find();
+
+  resp.status(200).json({
+    status: "success",
+    results: campuses?.length,
+    data: {
+      campuses,
+    },
+  });
+});
+
+module.exports = { createCampus, getCampuses };
